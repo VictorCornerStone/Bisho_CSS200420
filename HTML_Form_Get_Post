@@ -1,0 +1,30 @@
+<html>
+<body>
+    <form>
+     <table>
+            <tr>
+                <td> Name   </td>
+                <td> <input type="text" name="n1">   </td>
+            
+            </tr>
+            <tr>
+                <td> Password </td>
+                <td> <input type="password" name="n2">   </td>
+            
+            </tr>
+            <tr>
+
+                <td> Birth Date  </td>
+                <td> <input type="date" name="n3">   </td>
+            
+            </tr>
+         
+          </table>
+
+    <br>
+    <br>
+    <input type="submit">
+    
+        </form>
+    </body>
+</html>
